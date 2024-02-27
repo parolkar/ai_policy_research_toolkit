@@ -1,8 +1,6 @@
 # AI Policy Research & Strategy Development Framework
 
-This initiative is inspired by SAI which is is a Q&A search engine designed to provide relevant and high quality information about curated AI policy documents.
-
-This project is a collaboration between the OECD and Mila.
+This initiative is inspired by building blocks of SAI (which was collaboration between OECD & Mila). SAI is a Q&A search engine designed to provide relevant and high quality information about curated AI policy documents.
 
 It uses Retrieval-Augmented Generation (RAG) on AI policy documents curated by the OECD.
 
