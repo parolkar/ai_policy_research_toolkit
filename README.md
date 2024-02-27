@@ -1,4 +1,4 @@
-# AI Policy Research & Straetgy Development Framework
+# AI Policy Research & Strategy Development Framework
 
 This initiative is inspired by SAI which is is a Q&A search engine designed to provide relevant and high quality information about curated AI policy documents.
 
