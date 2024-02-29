@@ -4,6 +4,8 @@ This initiative is inspired by building blocks of SAI (which was collaboration b
 
 It uses Retrieval-Augmented Generation (RAG) on AI policy documents curated by the OECD.
 
+![Screenshot](data/sai_ai_questions.png "Screenshot")
+
 
 ## Hosting
 <!-- It deploys [buster](www.github.com/jerpint/buster) on AI policies collected by the OECD. -->
