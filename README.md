@@ -7,17 +7,6 @@ It uses Retrieval-Augmented Generation (RAG) on AI policy documents curated by t
 ![Screenshot](data/sai_ai_questions.png "Screenshot")
 
 
-## Hosting
-<!-- It deploys [buster](www.github.com/jerpint/buster) on AI policies collected by the OECD. -->
-
-Links to current deployments of the app. We host the app on huggingface.
-
-| Service       | Dev URL                                                                                          | Prod URL                                                                                             |
-|---------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| Huggingface   | [Dev (private)](https://huggingface.co/spaces/mila-ai4h/SAI-dev)                              | [Prod (public)](https://huggingface.co/spaces/mila-ai4h/SAI)                                     |
-
-Note that the Dev space on huggingface is private and you need to be a member of the org. to view it.
-
 
 ## Tech Stack
 
